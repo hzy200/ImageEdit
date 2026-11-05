@@ -1,0 +1,21 @@
+*.iml
+.gradle
+.kotlin/
+.idea/
+/local.properties
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.env
+
+# 大文件 / 本地模型与数据（不入库）
+/models/
+/images/
+/tools/model-ab/out/
+/tools/test-images/out/
+__pycache__/
+*.pyc
+
